@@ -1,0 +1,27 @@
+/* navbar */
+.navv1 {
+  background-color: #00adb5;
+  font-size: 1.3rem;
+  font-family: "Merriweather", serif;
+}
+
+/*carousel*/
+/* styles.css */
+
+/* .carousel-item img {
+  height: 400px;
+  object-fit: cover;
+  filter: blur(8px);
+} */
+/* .cimg {
+  height: 400px;
+  object-fit: cover;
+  filter: blur(2px);
+} */
+/* bmi.css */
+
+.cimg {
+  height: 400px !important;
+  object-fit: cover;
+  filter: blur(2px);
+}

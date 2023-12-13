@@ -1,5 +1,5 @@
 /*body*/
-body {
+.bodyy {
   background-color: #222831;
 }
 
@@ -37,8 +37,43 @@ body {
 /*form*/
 .formfeild {
   width: 28rem;
-  height: 500px;
+  height: 400px;
   background-color: #00adb5;
   margin: 30px auto;
   border-radius: 15%;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+.formtext1 {
+  font-size: 2.2rem;
+  margin-top: 50px;
+}
+.btn {
+  margin-top: 42px;
+}
+
+/*table*/
+.table {
+  font-family: "Lora", serif;
+  text-align: center;
+}
+
+/*info page*/
+
+/*info text*/
+.infotext {
+  width: 30rem;
+  height: 400px;
+  margin: 70px auto;
+  background-color: #d9d9d9;
+  border-radius: 15%;
+  text-align: center;
+  font-family: "Lora", serif;
+}
+.formula {
+  padding-top: 30px;
+}
+.explanation {
+  margin: 40px 15px 0 15px;
+  font-size: 1.3rem;
 }

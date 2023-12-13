@@ -1,6 +1,6 @@
 /*text color*/
 .textcolor {
-  color: #393e46;
+  color: #1e2125;
 }
 /* navbar */
 .navv1 {
@@ -21,8 +21,10 @@
 .c_quote {
   margin-bottom: 90px;
   font-size: 1.8rem;
+  font-family: "Libre Baskerville", serif;
 }
 .c_quotespeaker {
   margin-bottom: 40px;
   font-size: 1.8rem;
+  font-family: "Libre Baskerville", serif;
 }

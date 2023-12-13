@@ -1,3 +1,7 @@
+/*text color*/
+.textcolor {
+  color: #393e46;
+}
 /* navbar */
 .navv1 {
   background-color: #00adb5;
@@ -6,22 +10,19 @@
 }
 
 /*carousel*/
-/* styles.css */
 
-/* .carousel-item img {
-  height: 400px;
-  object-fit: cover;
-  filter: blur(8px);
-} */
-/* .cimg {
+.carousel-item img {
   height: 400px;
   object-fit: cover;
   filter: blur(2px);
-} */
-/* bmi.css */
+}
 
-.cimg {
-  height: 400px !important;
-  object-fit: cover;
-  filter: blur(2px);
+/*carousel quote*/
+.c_quote {
+  margin-bottom: 90px;
+  font-size: 1.8rem;
+}
+.c_quotespeaker {
+  margin-bottom: 40px;
+  font-size: 1.8rem;
 }

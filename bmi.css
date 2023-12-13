@@ -1,6 +1,11 @@
+/*body*/
+body {
+  background-color: #222831;
+}
+
 /*text color*/
 .textcolor {
-  color: #1e2125;
+  color: #07090a;
 }
 /* navbar */
 .navv1 {
@@ -19,7 +24,7 @@
 
 /*carousel quote*/
 .c_quote {
-  margin-bottom: 90px;
+  margin-bottom: 80px;
   font-size: 1.8rem;
   font-family: "Libre Baskerville", serif;
 }
@@ -27,4 +32,13 @@
   margin-bottom: 40px;
   font-size: 1.8rem;
   font-family: "Libre Baskerville", serif;
+}
+
+/*form*/
+.formfeild {
+  width: 28rem;
+  height: 500px;
+  background-color: #00adb5;
+  margin: 30px auto;
+  border-radius: 15%;
 }
